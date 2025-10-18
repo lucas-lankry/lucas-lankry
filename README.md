@@ -29,7 +29,7 @@ Quantitative finance, computational methods in asset pricing, and systematic tra
 
 ## Selected Projects
 
-**[Options Pricing & Greeks Analysis](https://github.com/LuluDeMonhoudou/options-pricing-calculator)**  
+**[Options Pricing & Greeks Analysis](https://github.com/lucas-lankry/Options-Pricing-Calculator)**  
 Interactive Black-Scholes implementation with real-time sensitivity analysis, market data integration, and 3D visualization of option surfaces.
 
 
