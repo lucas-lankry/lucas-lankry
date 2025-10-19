@@ -1,7 +1,7 @@
 # Lucas Lankry
 
 MSc Financial Markets & Investments | North Carolina State University - SKEMA Partnership Program  
-CFA Level 2 | Raleigh, NC
+Passed CFA Level 2 | Raleigh, NC
 
 ## Research Interests
 
