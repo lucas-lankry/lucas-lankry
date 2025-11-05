@@ -33,7 +33,7 @@ Quantitative finance, computational methods in asset pricing, and systematic tra
 Interactive Black-Scholes implementation with real-time sensitivity analysis, market data integration, and 3D visualization of option surfaces.
 
 **[Heston Model Calibration to SPY Options](https://github.com/lucas-lankry/Heston-Model-Calibration-to-SPY-Options)**  
-Stochastic volatility model implementation with characteristic function pricing calibrated to 510+ SPY options. Achieves R²=0.969 with interactive 3D visualizations of volatility surfaces and smile dynamics.
+Stochastic volatility model implementation with characteristic function pricing calibrated to 600+ SPY options. Achieves R²=0.976 with interactive 3D visualizations of volatility surfaces and smile dynamics.
 
 
 ## Professional Experience
