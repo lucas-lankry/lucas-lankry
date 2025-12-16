@@ -35,8 +35,7 @@ Interactive Black-Scholes implementation with real-time sensitivity analysis, ma
 **[Heston Model Calibration to SPY Options](https://github.com/lucas-lankry/Heston-Model-Calibration-to-SPY-Options)**  
 Stochastic volatility model implementation with characteristic function pricing calibrated to 600+ SPY options. Achieves R²=0.976 with interactive 3D visualizations of volatility surfaces and smile dynamics.
 
-**[Risk Monitor Project](https://github.com/lucas-lankry/Risk-Monitor-Project)**
-
+**[Risk Monitor Project](https://github.com/lucas-lankry/Risk-Monitor-Project)**                                                                                                          
 A Streamlit-based risk management application for commodity options on futures portfolios, enabling multi-model Greeks analysis (Black-76, Bachelier, Heston, Local Volatility) with real-time Bloomberg integration.
 
 
