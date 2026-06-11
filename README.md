@@ -17,8 +17,8 @@ Quantitative finance, computational methods in asset pricing, and systematic tra
 
 ## Technical Expertise
 
-**Programming:** Python, VBA, R, Currently Learning C++ 
-**Quantitative Finance:** Derivatives pricing, Portfolio optimization, Risk management, Backtesting frameworks  
+**Programming:** Python, VBA, R, Currently Learning C++
+**Quantitative Finance:** Derivatives pricing, Portfolio optimization, Risk management, Backtesting frameworks
 **Platform:** Bloomberg Terminal, EEX
 
 
