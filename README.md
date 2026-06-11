@@ -1,30 +1,25 @@
 # Lucas Lankry
 
-MSc Financial Markets & Investments | North Carolina State University - SKEMA Partnership Program  
-Passed CFA Level 2 | Raleigh, NC
+Gas Trader @ AXEGAZ Trading & Technologies | MSc Financial Markets & Investments | North Carolina State University - SKEMA Partnership Program  
+Passed CFA Level 2 | Paris, France
 
 ## Research Interests
 
 Quantitative finance, computational methods in asset pricing, and systematic trading strategies. 
 
-**Current Focus:**
-- Multi-agent AI systems for market microstructure analysis (Master's thesis)
-- Machine learning applications in derivatives pricing
-- Systematic trading strategy development and validation
 
 **Academic Background:**
-- MSc Financial Markets & Investments, NC State/SKEMA (#2 FT Master's in Finance), 2023-2026
+- MSc Financial Markets & Investments, NC State/SKEMA, 2023-2026
 - BBA Finance (Bilingual), HEC Montreal, 2018-2022
 - CFA Level 2 Passed (2024), Level 3 Candidate
 - Bloomberg Market Concepts Certified
 
 
-
 ## Technical Expertise
 
-**Programming:** Python, VBA, Currently Learning C++ 
+**Programming:** Python, VBA, R, Currently Learning C++ 
 **Quantitative Finance:** Derivatives pricing, Portfolio optimization, Risk management, Backtesting frameworks  
-**Platform:** Bloomberg Terminal
+**Platform:** Bloomberg Terminal, EEX
 
 
 ## Selected Projects
@@ -41,6 +36,8 @@ A Streamlit-based risk management application for commodity options on futures p
 
 ## Professional Experience
 
+**AXEGAZ Trading & Technologies** - Gas Trader (Present)  
+
 **Banque de France** - Financial Analyst (2023)  
 
 **Alliance Electronics** - CFO's Right-hand (2022-2023)  
@@ -52,4 +49,3 @@ Email: llankry@ncsu.edu
 LinkedIn: [linkedin.com/in/lucaslankry](https://linkedin.com/in/lucaslankry)  
 
 ---
-
