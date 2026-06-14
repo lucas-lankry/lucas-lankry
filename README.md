@@ -11,7 +11,7 @@ Quantitative finance, computational methods in asset pricing, and systematic tra
 **Academic Background:**
 - MSc Financial Markets & Investments, NC State/SKEMA, 2023-2026
 - BBA Finance (Bilingual), HEC Montreal, 2018-2022
-- CFA Level 2 Passed (2024), Level 3 Candidate
+- CFA Level 2 Passed (2024)
 - Bloomberg Market Concepts Certified
 
 
@@ -21,7 +21,7 @@ Quantitative finance, computational methods in asset pricing, and systematic tra
 
 **Quantitative Finance:** Derivatives pricing, Portfolio optimization, Risk management, Backtesting frameworks
 
-**Platform:** Bloomberg Terminal, EEX
+**Platform:** Bloomberg Terminal, EEX, Trayport
 
 
 ## Selected Projects
