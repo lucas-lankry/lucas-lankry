@@ -1,53 +1,53 @@
 # Lucas Lankry
 
-Gas Trader @ AXEGAZ Trading & Technologies | MSc Financial Markets & Investments | North Carolina State University - SKEMA Partnership Program  
-Passed CFA Level 2 | Paris, France
+Gas Trader @ Sirius Energy SA | European Gas Markets  
+MSc Financial Markets & Investments (SKEMA × NC State) | CFA Level II Passed | Lugano, Switzerland
 
-## Research Interests
-
-Quantitative finance, computational methods in asset pricing, and systematic trading strategies. 
+Gas trader focused on European gas hubs, with a strong interest in physical gas markets, storage optimisation and quantitative modelling.
 
 
-**Academic Background:**
-- MSc Financial Markets & Investments, NC State/SKEMA, 2023-2026
-- BBA Finance (Bilingual), HEC Montreal, 2018-2022
-- CFA Level 2 Passed (2024)
-- Bloomberg Market Concepts Certified
+## Education
+
+- **MSc Financial Markets & Investments**, SKEMA Business School × North Carolina State University, 2023–2026  
+  Thesis: *Front-Month Proxy Hedging of JKM LNG Futures with TTF for a Market-Making Book* (18.5/20)
+- **BBA Finance (Bilingual)**, HEC Montréal, 2018–2022
+- **CFA Level II** passed (2024)
 
 
 ## Technical Expertise
 
-**Programming:** Python, VBA, R, SQL, Currently Learning C++
+**Gas Markets:** European hubs (TTF, THE, PEG, PSV, ZTP, CEGH), physical trading, nominations, transport capacity, storage
 
-**Quantitative Finance:** Derivatives pricing, Portfolio optimization, Risk management, Backtesting frameworks
+**Programming:** Python, VBA, R, SQL, currently learning C++
 
-**Platform:** Bloomberg Terminal, EEX, Trayport
+**Quantitative Finance:** Derivatives pricing, stochastic volatility models, risk management, backtesting frameworks
+
+**Platforms:** Trayport, EEX, GME, PRISMA, Bloomberg Terminal (Bloomberg Market Concepts certified)
 
 
 ## Selected Projects
 
-**[Options Pricing & Greeks Analysis](https://github.com/lucas-lankry/Options-Pricing-Calculator)**  
-Interactive Black-Scholes implementation with real-time sensitivity analysis, market data integration, and 3D visualization of option surfaces.
+**[Risk Monitor Project](https://github.com/lucas-lankry/Risk-Monitor-Project)**  
+Streamlit-based risk management application for commodity options on futures portfolios, enabling multi-model Greeks analysis (Black-76, Bachelier, Heston, Local Volatility) with real-time Bloomberg integration.
 
 **[Heston Model Calibration to SPY Options](https://github.com/lucas-lankry/Heston-Model-Calibration-to-SPY-Options)**  
-Stochastic volatility model implementation with characteristic function pricing calibrated to 600+ SPY options. Achieves R²=0.976 with interactive 3D visualizations of volatility surfaces and smile dynamics.
+Stochastic volatility model with characteristic-function pricing, calibrated to 600+ SPY options (R² = 0.976), with interactive 3D visualisations of volatility surfaces and smile dynamics.
 
-**[Risk Monitor Project](https://github.com/lucas-lankry/Risk-Monitor-Project)**                                                                                                          
-A Streamlit-based risk management application for commodity options on futures portfolios, enabling multi-model Greeks analysis (Black-76, Bachelier, Heston, Local Volatility) with real-time Bloomberg integration.
+**[Options Pricing & Greeks Analysis](https://github.com/lucas-lankry/Options-Pricing-Calculator)**  
+Interactive Black-Scholes implementation with real-time sensitivity analysis, market data integration and 3D visualisation of option surfaces.
 
 
 ## Professional Experience
 
-**AXEGAZ Trading & Technologies** - Gas Trader (Present)  
-
-**Banque de France** - Financial Analyst (2023)  
-
-**Alliance Electronics** - CFO's Right-hand (2022-2023)  
+**Sirius Energy SA** – Gas Trader (Dec 2026 – Present), Lugano  
+**AXÈGAZ Trading & Technologies** – Gas Trader, Internship (Jun – Nov 2026), Paris  
+**Banque de France** – Financial Analyst, Internship (2023), Angers  
+**Alliance Electronics** – CFO's Right-hand (2022–2023)
 
 
 ## Contact
 
-Email: llankry@ncsu.edu  
-LinkedIn: [linkedin.com/in/lucaslankry](https://linkedin.com/in/lucaslankry)  
+Email: lucas.lkry@gmail.com  
+LinkedIn: [linkedin.com/in/lucaslankry](https://linkedin.com/in/lucaslankry)
 
 ---
